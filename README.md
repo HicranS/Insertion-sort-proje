@@ -27,7 +27,7 @@ Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-Cevap: Worst Case
+Cevap: Average Case
 
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
